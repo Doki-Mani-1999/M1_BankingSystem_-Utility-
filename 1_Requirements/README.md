@@ -57,7 +57,7 @@
 
 ## WEAKNESS
 
-* It always require internet connection to operate.
+* If the password is wrong No activities can be done.
 
 ## OPPURTUNITIES
 
