@@ -1,7 +1,7 @@
 
 ## Description
 
-* The BankingSystem is a web-based application used for paying financial institutions for the services they provide to the Bureau of the Fiscal Service. BMS also provides analytical tools to review, and approve compensation, budgets, and outflows.
+* Bank Management system : With this project, user can perform banking activities like in real bank. This perticular file contains all the details of requirement collection from user end.
 
 
 ## Requirements
@@ -57,7 +57,7 @@
 
 ## WEAKNESS
 
-* It always require internet connection to operate.
+* If the password is wrong No activities can be done.
 
 ## OPPURTUNITIES
 
