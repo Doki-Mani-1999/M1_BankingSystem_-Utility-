@@ -12,7 +12,7 @@
  * Firstly to register.
  * Then the details will be saved.
 
-<<<<<<< HEAD
+
 # Process
 * This Project is an to give some data an it will be save the data and also it will give to store the details of the what we given in the output time.
 
@@ -42,5 +42,5 @@
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  LLR1       |If user enters wrong Account Number. | 000000000| Wrong account number...| Wrong account number...|Requirement based |
 |  LLR2       |If wrong choice choosen| 7|Invalid choice|Exit|Scenario based    |
->>>>>>> 0fe1b52fa71adc2a0ea1eedd2249f35e70d07dac
+
 
